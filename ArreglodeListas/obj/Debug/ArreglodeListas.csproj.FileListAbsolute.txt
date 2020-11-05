@@ -1,0 +1,10 @@
+C:\Users\Gerar\source\repos\ArreglodeListas\ArreglodeListas\bin\Debug\ArreglodeListas.exe.config
+C:\Users\Gerar\source\repos\ArreglodeListas\ArreglodeListas\bin\Debug\ArreglodeListas.exe
+C:\Users\Gerar\source\repos\ArreglodeListas\ArreglodeListas\bin\Debug\ArreglodeListas.pdb
+C:\Users\Gerar\source\repos\ArreglodeListas\ArreglodeListas\obj\Debug\ArreglodeListas.csprojAssemblyReference.cache
+C:\Users\Gerar\source\repos\ArreglodeListas\ArreglodeListas\obj\Debug\ArreglodeListas.Form1.resources
+C:\Users\Gerar\source\repos\ArreglodeListas\ArreglodeListas\obj\Debug\ArreglodeListas.Properties.Resources.resources
+C:\Users\Gerar\source\repos\ArreglodeListas\ArreglodeListas\obj\Debug\ArreglodeListas.csproj.GenerateResource.cache
+C:\Users\Gerar\source\repos\ArreglodeListas\ArreglodeListas\obj\Debug\ArreglodeListas.csproj.CoreCompileInputs.cache
+C:\Users\Gerar\source\repos\ArreglodeListas\ArreglodeListas\obj\Debug\ArreglodeListas.exe
+C:\Users\Gerar\source\repos\ArreglodeListas\ArreglodeListas\obj\Debug\ArreglodeListas.pdb
